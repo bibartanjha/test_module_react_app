@@ -1,8 +1,8 @@
 # React App with Cypress Testing
 
-## This is the front-end react app for our Software Testing project
+This is the front-end react app for our Software Testing project
 
-## Group Members: Bibartan Jha, Saehej Kang, Nolan Luppke
+Group Members: Bibartan Jha, Saehej Kang, Nolan Luppke
 
 ## Guide to code
 
