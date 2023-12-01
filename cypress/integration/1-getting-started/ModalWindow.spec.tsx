@@ -1,6 +1,6 @@
 describe('ModalWindow Component', () => {
   beforeEach(() => {
-    cy.visit('http://localhost:3000');
+    cy.visit('http://localhost:4200');
   });
 
   it('Should open modal on button click', () => {

@@ -2,7 +2,7 @@ const suggestions=["apple", "banana", "orange", "grape", "kiwi", "mango", "straw
 
 describe('FilteredListFruits Component', () => {
   beforeEach(() => {
-    cy.visit('http://localhost:3000');
+    cy.visit('http://localhost:4200');
   });
 
   it('renders the Autocomplete component', () => {

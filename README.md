@@ -20,7 +20,7 @@ To start project, run:
 
 ### `npm run start`
 
-and your app should start running on [http://localhost:3000](http://localhost:3000)
+and your app should start running on [http://localhost:4200](http://localhost:4200)
 
 ## Instructions for running cypress tests
 
@@ -28,7 +28,7 @@ First run
 
 ### `npm run start`
 
-and make sure the app is running on [http://localhost:3000](http://localhost:3000)
+and make sure the app is running on [http://localhost:4200](http://localhost:4200)
 
 Then, open a new terminal window, and run 
 
